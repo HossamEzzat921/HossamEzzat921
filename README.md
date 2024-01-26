@@ -2,7 +2,8 @@
 
 -✨ I'm @HossamEzzat921 and here's a snapshot about me:
 
--👀 I’m interested in exploring innovative technologies and contributing to open-source projects.
+-👀 I’m interested in exploring innovative technologies and contributing to open-source projects. 
+    🤖 AI | 🌐 Front-end Development
 
 -🌱 I’m currently learning artificial intelligence and developing my skills as a front-end developer.
 
